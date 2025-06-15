@@ -27,7 +27,7 @@ Fingerella/
 ├── modelTraining.ipynb # Jupyter Notebook for training the classifier
 ├── testingOnImages.ipynb # Testing the model on static images
 ├── testingOnWebCam.ipynb # Real-time detection using webcam
-├── fingers/ # Training and testing dataset folders ( you can download from releases of this repo and extract to get this folder)
+├── fingers/ # Training and testing dataset folders ( you can download dataset from https://www.kaggle.com/datasets/koryakinp/fingers)
 │ ├── train/
 │ └── test/
 ├── testing_imgs/ # Folder for custom test images
