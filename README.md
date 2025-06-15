@@ -84,7 +84,7 @@ Put your test images in ./testing_imgs/ and see the predictions with confidence 
 ## 📹 3. Test on Webcam
 
 ```bash
-Open `testingOnWebCam.ipynb` and run all cells.
+Open `testingOnWebcam.ipynb` and run all cells.
 ```
 
 Make sure your webcam is enabled. A bounding box will be drawn in the center of the frame where you place your hand.
